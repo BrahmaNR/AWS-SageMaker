@@ -1,0 +1,17 @@
+Success: downloaded bank_clean.csv.
+Success: Data loaded into dataframe.
+
+[20:21:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 0 extra nodes, 32 pruned nodes, max_depth=0
+[99]#011train-error:0.093892
+
+2022-05-03 20:21:50 Uploading - Uploading generated training model
+2022-05-03 20:21:50 Completed - Training job completed
+Training seconds: 125
+Billable seconds: 125
+
+Overall Classification Rate: 89.5%
+
+Predicted      No Purchase    Purchase
+Observed
+No Purchase    90% (10769)    37% (167)
+Purchase        10% (1133)     63% (288) 
